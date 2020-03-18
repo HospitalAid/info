@@ -1,6 +1,3 @@
-# info
-Core information about the VentCentral project (part of https://www.projectopenair.org)
-
 # COVID-19 VentCentral Project
 
 This project is part of [#projectopenair](https://www.projectopenair.org/), a collection of "Helpful Engineers" who have congregated to help in the COVID-19 Coronavirus Pandemic.
