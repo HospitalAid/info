@@ -18,11 +18,6 @@ An important source of technical information will be available through iFixIt AP
 
 Main functionalities:
 * Map-based ventilator tracking dashboard
-* Repair Guides
-* Specialists contact info
-
-Main functionalities:
-* Map-based ventilator tracking dashboard
 * Call for assistance (volunteers and/or parts)
 * Resources
   * Manuals and Repair Guides (provided by iFixit.com API and other sources)
