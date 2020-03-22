@@ -10,8 +10,6 @@ We need volunteers! Let's rock it!
 
 ## Project Description
 
-https://github.com/VentCentral/info
-
 Project VentCentral goal is to bridge the gap between volunteers and hospital equipment repair needs. The web and mobile platform will track the status of ventilators in public hospitals and provide volunteers access to technical resources.
 
 This project is part of Helpful Engineering, a 3.400+ strong volunteer organization, with engineers, scientists and doctors around the world dedicated to helping the world address the COVID-19 pandemic. Relying on the resourcefulness and grit of our members, we work to design innovative ways to fight the virus that causes this disease.
