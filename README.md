@@ -1,12 +1,12 @@
 # HospitalAid Project
 
-[HospitalAid](http://hospitalaid.org) project is a web and mobile platform to easily access and track the hospitals’ equipment and supplies demands:
-* Web and mobile APP
-* Open-source and non-profit
+[HospitalAid](http://hospitalaid.org) is a mobile app to easily access and track the hospitals’ equipment and supplies demands:
+* Mobile APP
+* Web dashboard for quick stats
+* Free to use, open-source, and non-profit
 * Centralized access to data
 * Simple data entry and access options
 * Demand tracking
-* Dashboard for quick stats
 
 We need volunteers! Let's rock it!
 
