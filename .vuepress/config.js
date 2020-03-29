@@ -6,7 +6,7 @@ module.exports = {
     ["script", { src: "https://d3js.org/d3.v4.min.js" }],
     [
       "script",
-      { src: "http://zalando.github.io/tech-radar/release/radar-0.5.js" }
+      { src: "https://opensource.zalando.com/tech-radar/release/radar-0.5.js" }
     ]
   ],
   plugins: [
