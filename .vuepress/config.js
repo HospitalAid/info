@@ -38,5 +38,6 @@ module.exports = {
     },
     displayAllHeaders: true
   },
+  base: "/info/",
   dest: "./docs"
 };
