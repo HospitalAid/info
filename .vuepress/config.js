@@ -37,5 +37,6 @@ module.exports = {
       ]
     },
     displayAllHeaders: true
-  }
+  },
+  dest: "./docs"
 };
