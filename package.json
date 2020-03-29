@@ -1,0 +1,26 @@
+{
+  "name": "info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "deploy": "aws s3 sync .vuepress/dist s3://bucket-not-created-yet --delete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HospitalAid/info.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HospitalAid/info/issues"
+  },
+  "homepage": "https://github.com/HospitalAid/info#readme",
+  "devDependencies": {
+    "vuepress": "^1.3.1",
+    "vuepress-plugin-medium-zoom": "^1.1.8",
+    "vuepress-plugin-mermaidjs": "^1.3.0"
+  }
+}
