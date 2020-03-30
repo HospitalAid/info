@@ -16,7 +16,9 @@
 * Simple data entry and access options
 * Demand tracking
 
-[HospitalAid project presentation](https://drive.google.com/open?id=1I_YQdmUoEkiHJhJspXZp-FAOnVxafSbl)
+[HospitalAid project presentation - EN](https://drive.google.com/open?id=1I_YQdmUoEkiHJhJspXZp-FAOnVxafSbl)
+
+[HospitalAid project presentation - PT](https://drive.google.com/open?id=115SesDdzZL-lnpVgqXGdvHjiQOjgXptm)
 
 ## About Us
 
