@@ -23,7 +23,11 @@ module.exports = {
     ]
   ],
   themeConfig: {
-    nav: [{ text: "Developers Start Here", link: "/developers/" }],
+    nav: [
+      { text: "Developers Start Here", link: "/developers/" },
+      { text: "GitHub", link: "https://github.com/HospitalAid/info" }
+    ],
+
     sidebar: {
       "/developers/": [
         "",
